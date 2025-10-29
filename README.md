@@ -10,7 +10,7 @@ A simple **CRUD REST API** built with **Spring Boot, Hibernate (JPA), Flyway, H2
 - Database migrations using **Flyway**  
 - In-memory database using **H2** (optional: file-based mode)  
 - Runs on **embedded Tomcat** (no external server required)  
-- Input validation and structured error handling  
+- Input validation and error responses using Spring Boot's default error handling
 
 ## Tech Stack
 
